@@ -1,3 +1,6 @@
+**Flight Delay Analysis Dashboard (Excel)**
+Project Overview
+This project analyzes airline operational performance using Excel Pivot Tables, Pivot Charts, and interactive slicers. The goal is to identify the main sources of flight delays and provide actionable recommendations to improve on-time performance.
 Business Problem
 Frequent flight delays reduce customer satisfaction, disrupt schedules, and increase operational costs. The dashboard helps answer three key questions:
 - Which airports generate the highest delays?
